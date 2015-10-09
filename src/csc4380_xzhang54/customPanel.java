@@ -14,7 +14,7 @@ import javax.swing.JPanel;
  * @author Xiao
  */
 //this is a test of github
-//github????
+//github????dddddd
 public class customPanel extends JPanel{
      int x1,x2,y1,y2;
      
